@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+	<Paths>
+		<FolderPath>I:\iT\Bazis Update Remote</FolderPath>
+		<FileName>UpdateBazis2024.exe</FileName>
+		<InnounpPath>I:\iT\Bazis Update Remote\Innounp</InnounpPath>
+		<AppFolder>I:\iT\Bazis Update Remote\{app}</AppFolder>
+		<TargetDirectoryForBazis>I:\iT\Bazis Update Remote\Bazis</TargetDirectoryForBazis>
+		<TargetDirectoryForTmp>I:\iT\Bazis Update Remote\BazisTMP</TargetDirectoryForTmp>
+		<LogPath>C:\Users\Администратор.VERESK\Documents\Logs\logBazis.txt</LogPath>
+	</Paths>
+	<FilesToExclude>
+		<File>innounp.htm</File>
+		<File>innounp.exe</File>
+	</FilesToExclude>
+	<BooleanSettings>
+		<UseShellExecute>true</UseShellExecute>
+		<CreateNoWindow>false</CreateNoWindow>
+	</BooleanSettings>
+</Configuration>
